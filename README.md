@@ -1,1 +1,1 @@
-# CSE_564_Assignment_3_4
+# Basic clone of Astah to create class diagrams using Java Swing, which also uses multiple java design patterns
