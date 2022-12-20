@@ -4,6 +4,8 @@
 
 The tool contains 2 panels - left panel for code and right panel for class diagrams.
 
+![Example Screenshot](resources/exampleSS.png?raw=true "Example Screenshot")
+
 ### Right class diagram panel:
 
 Click anywhere in the right class diagram panel and enter class name to create a class. 
